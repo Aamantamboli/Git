@@ -1,6 +1,6 @@
 # <div align="center"> GitHub </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/617985ec-f627-47f2-aa3e-818240c289f0" />
+  <img src="https://github.com/user-attachments/assets/6b05d88e-31d0-45e0-a300-205d05b15214"/>
 </p>
 
 ## What is GitHub?
