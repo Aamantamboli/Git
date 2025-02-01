@@ -1,7 +1,11 @@
 # <div align="center"> Gitea </div>
 <p align ="center">
-  <img src="https://github.com/user-attachments/assets/92a4cb3d-575e-428e-af4a-a957eb052c16" widht="200" height="180"/>
+  
+<img src="https://github.com/user-attachments/assets/312f2688-d88e-41f6-b1fe-c723f86df6a5" width="200" height="220"/>
+
 </p>
+
+
 
 ## What is Gitea?
 Gitea is an open-source self-hosted Git service that provides a platform for managing Git repositories, similar to GitHub, GitLab, and Bitbucket. It is lightweight, easy to install, and designed to be simple and efficient, making it a popular choice for individuals and organizations looking for a self-hosted solution.
